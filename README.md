@@ -771,13 +771,10 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/f7d0be6e-b7b7-45cc-ae8c-89fad83e82b1)
 
-![image](https://github.com/user-attachments/assets/ac0c54e9-ad41-4a3d-91aa-3c5e62861d7b)
+![image](https://github.com/user-attachments/assets/f1bb0d83-ad98-44c3-a1f8-a6f2b818f23b)
+![image](https://github.com/user-attachments/assets/d966e7ae-b8cf-407a-818c-b5dc67586e94)
 
-![image](https://github.com/user-attachments/assets/7804161a-6c73-49eb-9abf-40f1546d3d48)
-
-![image](https://github.com/user-attachments/assets/9b66b6f7-8724-4c26-a41f-f715709d54d4)
 
 
 ## RESULT
